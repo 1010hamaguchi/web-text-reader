@@ -10,7 +10,13 @@
       "Bash(npm run dev:*)",
       "Bash(copy:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh repo create:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(gh api:*)",
+      "Bash(git checkout:*)"
     ],
     "deny": [],
     "ask": []

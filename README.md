@@ -2,7 +2,7 @@
 
 ウェブサイトの記事を音声で朗読するWebアプリケーションです。
 
-🌐 **Live Demo**: [https://your-username.github.io/web-text-reader/](https://your-username.github.io/web-text-reader/)
+🌐 **Live Demo**: [https://1010hamaguchi.github.io/web-text-reader/](https://1010hamaguchi.github.io/web-text-reader/)
 
 ## 🎯 機能
 
@@ -72,7 +72,7 @@
 
 ### ローカル開発
 ```bash
-git clone https://github.com/your-username/web-text-reader.git
+git clone https://github.com/1010hamaguchi/web-text-reader.git
 cd web-text-reader
 npm install
 npm run dev
